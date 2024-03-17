@@ -1,0 +1,99 @@
+[
+    {
+      "image": "https://source.unsplash.com/random/800x600/?chicken/curry",
+      "id": 1,
+      "name": "Chicken Stir-Fry",
+      "short_description": "A delicious and easy-to-make chicken stir-fry.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaves",
+        "400 g mushrooms"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "image": "https://source.unsplash.com/random/800x600/?pasta",
+      "id": 2,
+      "name": "Vegetable Pasta",
+      "short_description": "A healthy and flavorful vegetable pasta dish.",
+      "ingredients": [
+        "300 g pasta",
+        "1 bell pepper",
+        "1 zucchini",
+        "1 onion",
+        "2 cloves garlic",
+        "200 g cherry tomatoes",
+        "Basil leaves",
+        "Olive oil"
+      ],
+      "preparing_time": 25,
+      "calories": 250
+    },
+    {
+      "image": "https://source.unsplash.com/random/800x600/?salmon",
+      "id": 3,
+      "name": "Grilled Salmon",
+      "short_description": "Juicy grilled salmon with a citrus marinade.",
+      "ingredients": [
+        "4 salmon fillets",
+        "1 lemon",
+        "2 tablespoons olive oil",
+        "Salt and pepper"
+      ],
+      "preparing_time": 20,
+      "calories": 280
+    },
+    {
+      "image": "https://source.unsplash.com/random/800x600/?salad",
+      "id": 4,
+      "name": "Caprese Salad",
+      "short_description": "A classic Italian salad with fresh mozzarella and tomatoes.",
+      "ingredients": [
+        "2 tomatoes",
+        "200 g fresh mozzarella",
+        "Fresh basil leaves",
+        "Balsamic vinegar",
+        "Olive oil",
+        "Salt and pepper"
+      ],
+      "preparing_time": 15,
+      "calories": 180
+    },
+    {
+      "image": "https://source.unsplash.com/random/800x600/?smoothie",
+      "id": 5,
+      "name": "Mango Smoothie",
+      "short_description": "A refreshing and tropical mango smoothie.",
+      "ingredients": [
+        "1 ripe mango",
+        "1 banana",
+        "200 ml coconut milk",
+        "Ice cubes",
+        "Honey (optional)"
+      ],
+      "preparing_time": 10,
+      "calories": 200
+    },
+    {
+      "image": "https://source.unsplash.com/random/800x600/?salad",
+      "id": 6,
+      "name": "Greek Salad",
+      "short_description": "A traditional Greek salad with fresh veggies and feta cheese.",
+      "ingredients": [
+        "1 cucumber",
+        "2 tomatoes",
+        "1 red onion",
+        "100 g feta cheese",
+        "Kalamata olives",
+        "Olive oil",
+        "Red wine vinegar",
+        "Oregano",
+        "Salt and pepper"
+      ],
+      "preparing_time": 15,
+      "calories": 220
+    }
+  ]
+  
